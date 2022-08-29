@@ -3,7 +3,9 @@
 
 ***Technologies used: Java, Java Swing, MySQL***
  
- **PHOTOS FROM THE APP**
+ ***PHOTOS FROM THE APP***
+ 
+ **Login Screen:**
  
 ![1](https://user-images.githubusercontent.com/99878873/187268796-22af48d7-4280-479b-b0db-60a2c9b9b4c8.png)
 
