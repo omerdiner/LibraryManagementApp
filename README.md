@@ -3,7 +3,7 @@
 
 ***Technologies used: Java, Java Swing, MySQL***
  
- ***PHOTOS FROM THE APP***
+ *****PHOTOS FROM THE APP*****
  
  **Login Screen:**
  
