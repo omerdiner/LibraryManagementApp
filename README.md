@@ -16,17 +16,17 @@
 
 ![4](https://user-images.githubusercontent.com/99878873/187268635-2c158a26-ed36-4c08-9b87-0a9ce447e180.png)
 
-***I added the auto-complete feature in the publisher field in search and add section.***
+***I added the auto-complete feature in the publisher field in search and add section. :***
 
 ![5](https://user-images.githubusercontent.com/99878873/187268645-33fe337c-4c86-4026-a790-58f4622c3eb4.png)
 
 ![6](https://user-images.githubusercontent.com/99878873/187268649-3f3667a0-7ae7-47bb-8436-6055d2a0fe00.png)
 
-**User confirmation is requested before deletion takes place.**
+**User confirmation is requested before deletion takes place. :**
 
 ![7](https://user-images.githubusercontent.com/99878873/187268652-ebb1e461-0dde-4179-bf83-08bbc4cdee03.png)
 
-**Some statistics about the library:**
+**The about section shows some statistics about the library. :**
 
 ![8](https://user-images.githubusercontent.com/99878873/187268659-104cb69c-1332-4087-bfbf-30d8b1c6a573.png)
 
