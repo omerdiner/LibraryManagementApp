@@ -22,6 +22,8 @@
 
 ![6](https://user-images.githubusercontent.com/99878873/187268649-3f3667a0-7ae7-47bb-8436-6055d2a0fe00.png)
 
+**User confirmation is requested before deletion takes place.**
+
 ![7](https://user-images.githubusercontent.com/99878873/187268652-ebb1e461-0dde-4179-bf83-08bbc4cdee03.png)
 
 **Some statistics about the library:**
