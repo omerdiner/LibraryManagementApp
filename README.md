@@ -1,5 +1,5 @@
 # LibraryManagementApp
-***Desktop application made with java gui***
+***Desktop application made with Java Gui***
 
 ***Technologies used: Java, Java Swing, MySQL***
  
@@ -9,7 +9,7 @@
 
 ![2](https://user-images.githubusercontent.com/99878873/187268608-ae809d97-51ac-46c0-8e63-2e63cdf548e8.png)
 
-**Sorting options by different conditions**
+**Sorting options by different conditions:**
 
 ![11](https://user-images.githubusercontent.com/99878873/187271117-f82c3f9a-d37b-42c8-914c-89a635739ca5.png)
 
@@ -24,7 +24,9 @@
 
 ![7](https://user-images.githubusercontent.com/99878873/187268652-ebb1e461-0dde-4179-bf83-08bbc4cdee03.png)
 
+**Some statistics about the library:**
+
 ![8](https://user-images.githubusercontent.com/99878873/187268659-104cb69c-1332-4087-bfbf-30d8b1c6a573.png)
 
-**DATABASE**
+**DATABASE:**
 ![9](https://user-images.githubusercontent.com/99878873/187270140-2cfb0eb8-52a7-4b9e-b7a0-28b7c96be46d.png)
