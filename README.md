@@ -9,6 +9,11 @@
 
 ![2](https://user-images.githubusercontent.com/99878873/187268608-ae809d97-51ac-46c0-8e63-2e63cdf548e8.png)
 
+**Sorting options by different conditions**
+
+![11](https://user-images.githubusercontent.com/99878873/187271117-f82c3f9a-d37b-42c8-914c-89a635739ca5.png)
+
+
 ![4](https://user-images.githubusercontent.com/99878873/187268635-2c158a26-ed36-4c08-9b87-0a9ce447e180.png)
 
 ***I added the auto-complete feature in the publisher field in search and add section.***
