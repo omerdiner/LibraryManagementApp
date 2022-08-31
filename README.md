@@ -12,7 +12,7 @@
 
 ![AnaEkran](https://user-images.githubusercontent.com/99878873/187738401-e1a15c0b-9b70-4ef4-a366-7dc89b0d2c36.png)
 
-**We choose the appropriate one from the genres to add a book.**
+**We choose the appropriate one from the genres to add a book. :**
 
 ![türler](https://user-images.githubusercontent.com/99878873/187738656-56506a5c-7d23-41bc-a80e-5e387f3b0395.png)
 
@@ -33,8 +33,6 @@
 
 ![otomatikTamamlama](https://user-images.githubusercontent.com/99878873/187738719-7e778cb9-403e-4a64-9f88-44001118fd25.png)
 
-
-![6](https://user-images.githubusercontent.com/99878873/187268649-3f3667a0-7ae7-47bb-8436-6055d2a0fe00.png)
 
 **When the desired book is clicked for deletion, the id information is automatically placed in the id box.**
 
