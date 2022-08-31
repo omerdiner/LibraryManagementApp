@@ -14,7 +14,7 @@
 
 **We choose the appropriate one from the genres to add a book. :**
 
-![türler](https://user-images.githubusercontent.com/99878873/187738656-56506a5c-7d23-41bc-a80e-5e387f3b0395.png)
+![türler_ekleme1](https://user-images.githubusercontent.com/99878873/187741179-36f7ae28-9670-4f78-a198-ca1cebd4ca79.png)
 
 
 **Sorting options by different conditions:**
@@ -29,7 +29,7 @@
 ![yazaraGöreArama](https://user-images.githubusercontent.com/99878873/187739312-0bb65b6e-8bf8-46d0-9642-9dfa1a5b60d1.png)
 
 
-***I added the autocomplete feature according to the records in the database to the publisher field in the delete and search section.:***
+***I added the autocomplete feature according to the records in the database to the publisher field in the add and search section.:***
 
 ![otomatikTamamlama](https://user-images.githubusercontent.com/99878873/187738719-7e778cb9-403e-4a64-9f88-44001118fd25.png)
 
