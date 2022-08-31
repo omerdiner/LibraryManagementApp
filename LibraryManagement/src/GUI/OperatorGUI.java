@@ -41,7 +41,6 @@ public class OperatorGUI extends JFrame {
     private JComboBox combo_search_bookType;
     private JButton button_bookSearch;
     private JTextField field_publisher;
-    private JButton button_ordeyBy;
     private JComboBox combo_orderBy;
     private JPanel panel_bookSearch;
     private JLabel field_totalBookCount;
@@ -50,6 +49,7 @@ public class OperatorGUI extends JFrame {
     private JLabel field_totalPageCount;
     private JLabel field_authorWithMostBooks;
     private JLabel field_totalPublisherCount;
+    private JButton button_orderBy;
     TreeSet<String> publisherNamesList;
 
 
@@ -262,13 +262,14 @@ public class OperatorGUI extends JFrame {
         button_logout.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                dispose();
-                LoginGUI loginGUI = new LoginGUI();
+                if (Helper.confirmTransaction("Çıkış yapmak istediğinize emin misiniz?")) {
+                    dispose();
+                }
             }
         });
 
 
-        button_ordeyBy.addActionListener(new ActionListener() {
+        button_orderBy.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 String orderBy = combo_orderBy.getSelectedItem().toString();
