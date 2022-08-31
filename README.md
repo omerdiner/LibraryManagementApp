@@ -24,10 +24,9 @@
 
 ![türeGöreArama](https://user-images.githubusercontent.com/99878873/187739308-71b6520e-d52b-44e4-9abc-a6d9447fa627.png)
 
+
 ![yazaraGöreArama](https://user-images.githubusercontent.com/99878873/187739312-0bb65b6e-8bf8-46d0-9642-9dfa1a5b60d1.png)
 
-
-![4](https://user-images.githubusercontent.com/99878873/187268635-2c158a26-ed36-4c08-9b87-0a9ce447e180.png)
 
 ***I added the autocomplete feature according to the records in the database to the publisher field in the delete and search section.:***
 
